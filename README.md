@@ -1,4 +1,4 @@
-UPDATE customers
+UPDATE Customers
 
 SET BarCode = CustomerID
 
